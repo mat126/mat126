@@ -7,17 +7,23 @@
 
 ## 🔍 Projects
 
-### ⚽ Expected Goals (xG) Model Selection in Football
+### [⚽ Expected Goals (xG) Model Selection in Football](https://github.com/mat126/Expected-Goals-xG-model-in-Football)
 - Comparative analysis of logistic regression, LDA, bagging, random forest (with hyperparameter tuning), and neural networks for estimating xG
 - SHAP explainability, ROC/Brier/F1 metrics, full data pipeline and reproducible code
 - 📘 [Read the full paper on Zenodo](https://doi.org/10.5281/zenodo.16034196)
-- 💻 [GitHub Repository](https://github.com/mat126/Expected-Goals-xG-model-in-Football)
 - 📊 [Cleaned Dataset on Kaggle](https://www.kaggle.com/datasets/mat126/shots-dataset-for-footballsoccer)
 
-### 🧬 Hybrid CNN for Skin Cancer Classification (in progress)
+### [🧬 Hybrid CNN for Skin Cancer Classification (in progress)](https://github.com/mat126/skin-cancer-detection) 
 - Developing a multimodal deep learning model combining CNNs for images with dense layers for clinical metadata
 - Will include model architecture, training pipeline, validation metrics, and SHAP interpretability
 - 💻 GitHub link coming soon
+
+---
+
+## 📄 Curriculum Vitae
+
+You can download my CV here:  
+[📄 CV - PDF](https://github.com/mat126/mat126/raw/main/CV_Matteo.pdf)
 
 ---
 
@@ -28,6 +34,19 @@
 **Tools**: Jupyter, Git, GitHub, Colab, Kaggle
 
 ---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
 
 ## 📫 Contacts
 
