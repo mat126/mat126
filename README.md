@@ -16,7 +16,6 @@
 ### [🧬 Hybrid CNN for Skin Cancer Classification (in progress)](https://github.com/mat126/skin-cancer-detection) 
 - Developing a multimodal deep learning model combining CNNs for images with dense layers for clinical metadata
 - Will include model architecture, training pipeline, validation metrics, and SHAP interpretability
-- 💻 GitHub link coming soon
 
 ---
 
@@ -24,14 +23,6 @@
 
 You can download my CV here:  
 [📄 CV - PDF](https://github.com/mat126/mat126/raw/main/CV_Matteo.pdf)
-
----
-
-## ⚙️ Tech Stack
-
-**Languages**: Python, R, SQL, LaTeX  
-**Libraries**: scikit-learn, TensorFlow/Keras, SHAP, pandas, matplotlib  
-**Tools**: Jupyter, Git, GitHub, Colab, Kaggle
 
 ---
 
@@ -53,4 +44,3 @@ You can download my CV here:
 - ✉️ Email: mmorella9@gmail.com
 - 🧠 Zenodo: [zenodo.org/record/16034196](https://zenodo.org/record/16034196)
 - 🐱 GitHub: [@mat126](https://github.com/mat126)
-"""
