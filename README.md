@@ -44,7 +44,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Matteo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mat126&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mat126&layout=compact)
