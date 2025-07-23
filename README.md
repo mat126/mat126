@@ -20,7 +20,8 @@
 
 ## 📄 Curriculum Vitae
 
-📎 [Download CV - PDF]([Cv_Matte_Morella.pdf](https://github.com/mat126/mat126/blob/main/Cv_Matte_Morella.pdf))
+📎 [Download CV - PDF](https://raw.githubusercontent.com/mat126/mat126/main/Cv_Matte_Morella.pdf)
+
 
 ---
 
