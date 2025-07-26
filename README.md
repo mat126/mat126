@@ -12,7 +12,7 @@
 - 📘 [Full paper on Zenodo](https://doi.org/10.5281/zenodo.16034196)  
 - 📊 [Cleaned dataset on Kaggle](https://www.kaggle.com/datasets/mat126/shots-dataset-for-footballsoccer)
 
-### 🧬 [Hybrid CNN for Skin Cancer Classification (in progress)](https://github.com/mat126/skin-cancer-detection) 
+### 🧬 [Hybrid CNN for Skin Cancer Classification (in progress)](https://github.com/mat126/skin-cancer-classification) 
 - Developing a multimodal deep learning model combining CNNs for dermatoscopic images with dense layers for clinical metadata
 - Will include model architecture, training pipeline, validation metrics, and SHAP-based interpretability
 
